@@ -1,0 +1,27 @@
+repo_name: Riley1101/responsive_in_flex
+report_id: 64741ecf319c310a423fe2241b91a36e
+repo_type: Public
+timestamp: '2023-11-11T17:19:23+00:00'
+requested_by: Riley1101
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
